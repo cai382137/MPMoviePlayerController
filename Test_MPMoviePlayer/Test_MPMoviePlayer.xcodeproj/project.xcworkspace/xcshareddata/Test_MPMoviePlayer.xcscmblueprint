@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1383F7C217532FF17E41ADCC058F2C01AEF5B44C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1383F7C217532FF17E41ADCC058F2C01AEF5B44C" : 0,
+    "C77285CC2FD87B76CDFEFB63DDF55A86DB94F561" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5DE4ED69-29A5-436F-BFE8-0A1B59AD6BFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1383F7C217532FF17E41ADCC058F2C01AEF5B44C" : "Test_MPMoviePlayer\/",
+    "C77285CC2FD87B76CDFEFB63DDF55A86DB94F561" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Test_MPMoviePlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Test_MPMoviePlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cai3821327\/Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1383F7C217532FF17E41ADCC058F2C01AEF5B44C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cai382137\/MPMoviePlayerController-currentPlaybackTime",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C77285CC2FD87B76CDFEFB63DDF55A86DB94F561"
+    }
+  ]
+}
